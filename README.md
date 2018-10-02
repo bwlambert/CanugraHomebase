@@ -21,7 +21,7 @@ Characterization of Datt's ECARR index behavior on a commerical eucalypt stand i
 
 [Eucalyptus Sensing Canugra](https://github.com/bwlambert/CanugraHomebase/blob/master/EucalyptusSensingCanugra.ipynb)
 ---
-
+Initial attempt to examine the eucalypt forest near the Canungra homebase described in Giles _et al._ (2018)
 
 [Fixing ECARR Calculation](https://github.com/bwlambert/CanugraHomebase/blob/master/FixingECARR.ipynb)
 ---
