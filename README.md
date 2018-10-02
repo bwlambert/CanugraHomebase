@@ -1,5 +1,4 @@
 # Canugra Homebase
-A collection of notebooks 
 
 [Australia Coverage](https://github.com/bwlambert/CanungraHomebase/blob/master/AustraliaCoverage.ipynb)
 ---
