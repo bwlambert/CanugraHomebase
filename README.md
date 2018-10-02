@@ -2,41 +2,36 @@
 
 
 
-[AustraliaCoverage](https://github.com/bwlambert/CanugraHomebase/blob/master/AustraliaCoverage.ipynb)
+[Australia Coverage](https://github.com/bwlambert/CanugraHomebase/blob/master/AustraliaCoverage.ipynb)
 ---
 Generating WKT polygons along a uniform grid, we characterize temporal frequency of WorldView2 and WorldView3 imaging across the entirety of Australia.
 
-[BatemansBay](https://github.com/bwlambert/CanugraHomebase/blob/master/BatemansBay.ipynb)
+[Batemans Bay](https://github.com/bwlambert/CanugraHomebase/blob/master/BatemansBay.ipynb)
 ---
 
 
-[BloomInvestigation](https://github.com/bwlambert/CanugraHomebase/blob/master/BloomInvestigation.ipynb)
+[Bloom Investigation](https://github.com/bwlambert/CanugraHomebase/blob/master/BloomInvestigation.ipynb)
 ---
 
-[Canungra](https://github.com/bwlambert/CanugraHomebase/blob/master/Canungra.ipynb)
+
+[Eucalypt Stands Brazil](https://github.com/bwlambert/CanugraHomebase/blob/master/EucalyptStandsBrazil.ipynb)
 ---
 
-[CanungraWV](https://github.com/bwlambert/CanugraHomebase/blob/master/CanungraWV.ipynb)
+[Eucalyptus Sensing Canugra](https://github.com/bwlambert/CanugraHomebase/blob/master/EucalyptusSensingCanugra.ipynb)
 ---
 
-[EucalyptStandsBrazil](https://github.com/bwlambert/CanugraHomebase/blob/master/EucalyptStandsBrazil.ipynb)
+[Fixing ECARR Calculation](https://github.com/bwlambert/CanugraHomebase/blob/master/FixingECARR.ipynb)
 ---
 
-[EucalyptusSensingCanugra](https://github.com/bwlambert/CanugraHomebase/blob/master/EucalyptusSensingCanugra.ipynb)
+[New Blooms](https://github.com/bwlambert/CanugraHomebase/blob/master/NewBlooms.ipynb)
 ---
 
-[FixingECARR](https://github.com/bwlambert/CanugraHomebase/blob/master/FixingECARR.ipynb)
+[PlanetLabs Brazil](https://github.com/bwlambert/CanugraHomebase/blob/master/PlanetLabsBrazil.ipynb)
 ---
 
-[NewBlooms](https://github.com/bwlambert/CanugraHomebase/blob/master/NewBlooms.ipynb)
+[PlanetLabs Canungra](https://github.com/bwlambert/CanugraHomebase/blob/master/PlanetLabsCanungra.ipynb)
 ---
 
-[PlanetLabsBrazil](https://github.com/bwlambert/CanugraHomebase/blob/master/PlanetLabsBrazil.ipynb)
----
-
-[PlanetLabsCanungra](https://github.com/bwlambert/CanugraHomebase/blob/master/PlanetLabsCanungra.ipynb)
----
-
-[WorldView3Test](https://github.com/bwlambert/CanugraHomebase/blob/master/WorldView3Test.ipynb)
+[WorldView3 Test](https://github.com/bwlambert/CanugraHomebase/blob/master/WorldView3Test.ipynb)
 ---
 
