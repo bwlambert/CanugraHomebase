@@ -1,5 +1,5 @@
-# CanugraHomebase
-Collection of notebooks 
+# Canugra Homebase
+A collection of notebooks 
 
 [Australia Coverage](https://github.com/bwlambert/CanugraHomebase/blob/master/AustraliaCoverage.ipynb)
 ---
@@ -13,11 +13,9 @@ Comparisons of imagery featuring putative blooming events in 2016 with imagery s
 ---
 Further investigation of the blooming event south of Batemans Bay, NSW, in May 2018. Features comparison of DigitalGlobe and Planet Labs imagery with respect to ability to capture visual detail of the bloom. Also includes (probable) aerial imagery.       
 
-
 [Eucalypt Stands Brazil](https://github.com/bwlambert/CanugraHomebase/blob/master/EucalyptStandsBrazil.ipynb)
 ---
 Characterization of Datt's ECARR index behavior on a commerical eucalypt stand in Brazil.
-
 
 [Eucalyptus Sensing Canugra](https://github.com/bwlambert/CanugraHomebase/blob/master/EucalyptusSensingCanugra.ipynb)
 ---
@@ -25,17 +23,19 @@ Initial attempt to examine the eucalypt forest near the Canungra homebase descri
 
 [Fixing ECARR Calculation](https://github.com/bwlambert/CanugraHomebase/blob/master/FixingECARR.ipynb)
 ---
-Diffferences between red and rededge band for ECARR calculation.
+Examining differences in alternative ECARR implementations.
 
 [New Blooms](https://github.com/bwlambert/CanugraHomebase/blob/master/NewBlooms.ipynb)
 ---
+Visual confirmation of blooms near Lismore in 2018.  
 
 [PlanetLabs Brazil](https://github.com/bwlambert/CanugraHomebase/blob/master/PlanetLabsBrazil.ipynb)
 ---
+Comparing Planet Labs 4-band imagery to the Digital Globe imagery from the commercial eucalypt stand investigated above.
 
 [PlanetLabs Canungra](https://github.com/bwlambert/CanugraHomebase/blob/master/PlanetLabsCanungra.ipynb)
 ---
-Investigation of Planet Labs 4-band imagery 
+Investigation of Planet Labs 4-band imagery. Establishes ability of modified ECARR formulat to distinguish eucalypts.  
 
 [WorldView3 Test](https://github.com/bwlambert/CanugraHomebase/blob/master/WorldView3Test.ipynb)
 ---
